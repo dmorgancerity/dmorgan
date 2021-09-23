@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>51.0.14</string>
 	<key>ParentRecipe</key>
-	<string>com.github.autopkg.pkg.googledrive</string>
+	<string>com.github.mlbz521.pkg.GoogleDriveFileStream</string>
 	<key>Process</key>
 	<array>
 		<dict>
