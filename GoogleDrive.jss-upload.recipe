@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Uses parent pkg recipe to download latest GoogleDrive and import it into the JSS.</string>
 	<key>Identifier</key>
-    <string>com.github.homebysix.pkg.GoogleDrive</string>
+    <string>com.github.dmorgancerity.pkg.GoogleDrive</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
